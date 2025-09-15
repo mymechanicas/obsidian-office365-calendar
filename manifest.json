@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-office365-calendar",
+	"name": "Office 365 Calendar",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Create Office 365 calendar events directly from your Obsidian notes. Supports daily notes, text parsing, and smart date detection.",
+	"author": "Jørgen Gomo",
+	"authorUrl": "https://github.com/yourusername",
+	"fundingUrl": "",
+	"isDesktopOnly": true
+}
